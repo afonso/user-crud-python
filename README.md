@@ -111,7 +111,4 @@
     ├── run.py           # Runs the app!
     └── test.py          # Unit tests
 
-**Who do I talk to?**
 
-    Diego Mayorga
-    diego.mayorga86@gmail.com
